@@ -15,6 +15,12 @@ table {
  min-width: 300px;
  background: #dad8d8;
 }
+#odd{
+	color: plum;
+}
+#even{
+	color: aquamarine;
+}
 
 .header-row {
 	background: #34495E;
