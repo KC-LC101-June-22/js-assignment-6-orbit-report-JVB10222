@@ -36,6 +36,7 @@ export class AppComponent {
 		}.bind(this));
 
 	}
+	
 
 	search(searchTerm: string): void {
 		let matchingSatellites: Satellite[] = [];
